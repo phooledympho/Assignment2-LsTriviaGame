@@ -1,0 +1,12 @@
+/* styles.css */
+
+/* Button hover effect */
+.button:hover {
+    -fx-background-color: #4CAF50; /* Green background */
+    -fx-text-fill: white; /* White text color */
+}
+
+/* Image hover effect */
+.image-view:hover {
+    -fx-opacity: 0.8; /* Reduce opacity on hover */
+}
